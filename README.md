@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Arnas!
+## <img src="https://raw.githubusercontent.com/arnaskro/arnaskro/master/gifs/Hi.gif" width="30px"> Hi there, I'm Arnas!
 
 
 - ⚙️ `TypeScript`, `Python`, `AWS`
