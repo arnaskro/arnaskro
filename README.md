@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/arnaskro/arnaskro/master/gifs/Hi.gif" width="30px"> Hi there, I'm Arnas!
 
 
-- ⚙️ `TypeScript`, `Python`, `AWS`
+- ⚙️ `TypeScript`, `JavaScript`, `Python`, `AWS`, `React`, `React-Native`
 - 🌱 I'm interested in writing high quality solutions to solve real problems
 
 
